@@ -1,0 +1,50 @@
+body {
+  color: #333;
+  text-align: center;
+  font-family: "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+#main {
+  background-color: #eeeeee;
+  border-radius: 5px;
+  margin: 10px;
+}
+h1#title {
+  padding-top: 40px;
+  font-size: 3rem;
+}
+#img-div {
+  background-color: #fff;
+  padding: 2px;
+}
+#img-div img {
+  display: block;
+  margin: 0 auto;
+  padding: 5px;
+  max-width: 100%;
+}
+h3 {
+  text-align: center;
+}
+#tribute-info {
+  padding: 10px 30px 10px 30px;
+
+  text-align: left;
+}
+#tribute-info ul,
+.tribute-info-p {
+  margin: auto;
+  width: 80%;
+}
+#tribute-info ul {
+  margin-bottom: 50px;
+}
+.tribute-info-p {
+  margin-top: 20px;
+  font-style: italic;
+}
+li {
+  margin: 16px 0;
+}
